@@ -3,7 +3,7 @@
 ---
 
 ### EMU8086
-<div align="center">
+<div align="left">
   <img height="200" src="./photos/8086.png" />
 </div>
 
